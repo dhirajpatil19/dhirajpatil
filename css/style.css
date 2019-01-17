@@ -301,7 +301,6 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-/*   background-image: url("https://i.ytimg.com/vi/cg_zhVD1f_k/maxresdefault.jpg"); */
   background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
